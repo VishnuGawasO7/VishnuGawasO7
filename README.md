@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VishnuGawasO7
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Im not
-- 📫 How to reach me Instagram-VishnuGawas07
+- 👀 I’m interested In everything🌚
+- 🌱 I’m currently learning to learn
+- 💞️ I’m looking to collaborate on no Im not
+- 📫 How to reach me: Instagram-VishnuGawas07
 - 😄 Pronouns: Aap
 - ⚡ Fun fact: I code on my SmartPhone
 
