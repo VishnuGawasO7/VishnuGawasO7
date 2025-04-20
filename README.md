@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @VishnuGawasO7
 
-- I know the Basics of Python and can do basic WebScrapping.
+- Mern Stack Developer
 
-- I Can make Static Websites Using HTML, CSS, JS.
+- Project is to make an Anime Streaming Website.
 
-- Currently Learning react.
-
-- Final Project is to make an Anime Streaming Website.
+- Vishnugawas07.onrender.com 
